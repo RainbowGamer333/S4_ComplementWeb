@@ -1,0 +1,7 @@
+.menuFermee > li {
+    display: none;
+}
+
+.menuOuvert > li {
+    display: block;
+}
