@@ -143,7 +143,7 @@ const car = {
     modele: "",
     conso100km: 0,
     reservoirlitre: 0,
-    compteurkm: 0
+    compteurkm: 0,
 
     constructor: function(modele, conso100km) {
         this.modele = modele;
